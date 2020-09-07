@@ -20,6 +20,9 @@ Languages Development Process Support    |	HTML, CSS, JavaScript
 Tools	       |    Git
 IDE	           |     Visual Code Studio
 	           
+CODE EXAMPLES
+-------------
+GitHub [Git](https://github.com/OlgaR-k).
 
 
 
