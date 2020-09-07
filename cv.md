@@ -24,6 +24,12 @@ CODE EXAMPLES
 -------------
 GitHub [Git](https://github.com/OlgaR-k).
 
+Education
+------
+
+-Minsk Radio Engineering College
+
+-The Belarusian State University of Informatics and Radioelectronics
 
 
 English
