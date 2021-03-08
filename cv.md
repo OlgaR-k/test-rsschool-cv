@@ -9,7 +9,7 @@ Contact info
 
 Summary
 ------
-My goal: to get a job as a junior frontend developer before 2021.
+My goal: to get a job as a junior frontend developer before 2022.
 
 Skills
 ------
