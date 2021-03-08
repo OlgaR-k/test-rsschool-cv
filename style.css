@@ -1,0 +1,43 @@
+body {
+    max-width: 1024px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    line-height: 160%;
+}
+
+table {
+    display: inline-table;
+    margin: 1em;
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: auto;
+    table-layout: fixed;
+    width: 500px;
+}
+  
+table th,
+table td {
+  border: solid 1px;
+}
+
+img {
+    width: 100px;
+    border-radius: 50%;
+    vertical-align: middle;
+}
+
+ul{
+    margin-top: 0px;
+    margin-bottom: 0px;	
+    display: inline-block;
+    text-align: left;
+}
+
+li{
+    text-align: left;
+}
+
+time {
+    text-align: right;
+}
